@@ -1,0 +1,27 @@
+
+p	{
+		font-style: italic;
+		font-family: timesnewroman;
+		font-size: 20px;
+		font-weight: 1000;
+		color: blue;
+		direction: ltr;
+		letter-spacing: 5px;
+		word-spacing: 5px;
+		text-indent: 5cm;
+		text-decoration: overline;
+		text-transform: uppercase;
+	}
+
+.cls	{
+		font-weight: 1000;
+		text-indent: 2cm;
+		text-shadow: 4px 4px 10px yellow;
+	}
+
+body	{
+		background-image: url("Dodge.jpg");
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
+
